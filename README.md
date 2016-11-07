@@ -8,10 +8,6 @@ Browserify:
 
     npm install --save @nib-components/date-input-mask
     
-Component:
-
-    component install nib-components/date-input-mask
-    
 ## Usage
 
 HTML:
@@ -24,3 +20,9 @@ JavaScript:
     var el    = document.querySelector('input');
     
     mask(el);
+    
+## Change Log
+
+### `1.0.0`
+
+- Drop support for component

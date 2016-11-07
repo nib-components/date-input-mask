@@ -1,4 +1,4 @@
-var MaskedInput = require('masked-input');
+var MaskedInput = require('@nib-components/masked-input');
 
 var DIGIT = /^\d$/;
 

@@ -1,10 +1,6 @@
 {
   "name": "@nib-components/date-input-mask",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "dependencies": {
     "@nib-components/masked-input": "^1.0.0"
-  },
-  "browser": {
-    "masked-input": "@nib-components/masked-input"
   }
-}
